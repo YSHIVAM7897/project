@@ -1,37 +1,37 @@
 [
     {
       "event_name": "Krishna Janmashtami",
-      "date": "2024-08-26",
+      "date": "2025-08-26",
       "description": "Celebration of the birth of Lord Krishna, observed on the eighth day of the dark fortnight in the month of Bhadrapada."
     },
     {
       "event_name": "Ekadashi (Monthly)",
-      "date": "2024-07-24",
+      "date": "2025-07-24",
       "description": "Monthly fasting day observed on the eleventh day of both the waxing and waning phases of the moon, dedicated to Lord Vishnu, including Krishna."
     },
     {
       "event_name": "Govardhan Puja",
-      "date": "2024-11-02",
+      "date": "2025-10-22",
       "description": "Celebrated to honor the lifting of the Govardhan Hill by Lord Krishna to protect his devotees from Indra's wrath."
     },
     {
       "event_name": "Kartik Purnima",
-      "date": "2024-11-15",
+      "date": "2025-11-05",
       "description": "A significant festival in the month of Kartik, celebrated with devotional activities and often associated with Krishna's various pastimes."
     },
     {
       "event_name": "Holi",
-      "date": "2024-03-25",
+      "date": "2025-03-14",
       "description": "Festival of colors celebrating the victory of good over evil, including Krishna's playful activities with his devotees."
     },
     {
       "event_name": "Radha Ashtami",
-      "date": "2024-09-11",
+      "date": "2025-09-11",
       "description": "Celebration of the birth of Radha, the divine consort of Krishna, observed on the eighth day of the dark fortnight in the month of Bhadrapada."
     },
     {
       "event_name": "Dusshera",
-      "date": "2024-10-12",
+      "date": "2025-10-12",
       "description": "Festival commemorating the victory of Lord Rama (an incarnation of Vishnu) over the demon king Ravana, and also associated with Krishna's leelas."
     },
     {
@@ -41,17 +41,17 @@
     },
     {
       "event_name": "Diwali",
-      "date": "2024-11-01",
+      "date": "2025-10-21",
       "description": "Festival of lights celebrating the victory of light over darkness and good over evil, including Krishna's role in various divine pastimes."
     },
     {
       "event_name": "Chhat Puja",
-      "date": "2024-11-06",
+      "date": "2025-10-27",
       "description": "Hindu festival dedicated to the Sun God, Surya, celebrated with devotion and offerings to Lord Krishna."
     },
     {
       "event_name": "Jitiya",
-      "date": "2024-9-24",
+      "date": "2025-9-15",
       "description": "Festival observed by women for the well-being of their children and family, with devotional activities dedicated to Krishna."
     },
     {
@@ -60,98 +60,88 @@
       "description": "Festival marking the transition of the sun into the zodiac sign of Capricorn, celebrated with devotion and reverence towards Krishna."
     },
     {
-      "event_name": "Navratri",
-      "date": "2024-10-10",
+      "event_name": "Navratri(First day)",
+      "date": "2025-03-30",
       "description": "Nine-night festival dedicated to the worship of the Hindu goddess Durga, including fasting and devotional practices that also honor Krishna."
     },
     {
       "event_name": "Sawan (Shravan) Month",
-      "date": "2024-07-23",
+      "date": "2025-07-11",
       "description": "Month dedicated to Lord Shiva, but also celebrated with devotion to Krishna, particularly on Mondays."
     },
     {
-      "event_name": "Janmashtami (Krishna Jayanti)",
-      "date": "2024-08-07",
-      "description": "Another major celebration of Lord Krishna's birth, marked with fasting, singing, and reenactments of Krishna's early life."
-    },
-    {
       "event_name": "Ganesh Chaturthi",
-      "date": "2024-09-07",
+      "date": "2025-08-27",
       "description": "Festival celebrating the birth of Lord Ganesha, with festivities and prayers that also include reverence to Krishna."
     },
     {
       "event_name": "Basant Panchami",
-      "date": "2024-01-25",
+      "date": "2025-02-02",
       "description": "Festival marking the arrival of spring and dedicated to Goddess Saraswati, with celebrations that include devotional activities for Krishna."
     },
     {
       "event_name": "Rath Yatra",
-      "date": "2024-07-07",
+      "date": "2025-06-27",
       "description": "Festival celebrating the annual procession of Lord Jagannath’s chariot, associated with Krishna's divine play in the city of Puri."
-    },
-    {
-      "event_name": "Vasant Panchami",
-      "date": "2024-01-25",
-      "description": "Festival celebrating the arrival of spring and the worship of Goddess Saraswati, associated with the divine blessings of Krishna."
-    },
+    }, 
     {
       "event_name": "Ahoi Ashtami",
-      "date": "2024-10-28",
+      "date": "2025-10-13",
       "description": "A fasting day observed by women for the welfare and longevity of their children, including devotion to Krishna."
     },
     {
       "event_name": "Gauri Tritiya",
-      "date": "2024-08-19",
+      "date": "2025-03-31",
       "description": "Festival dedicated to Goddess Gauri, observed on the third day of the bright fortnight of Bhadrapada month, with offerings and prayers to Krishna."
     },
     {
       "event_name": "Tulsi Vivah",
-      "date": "2024-11-24",
+      "date": "2025-11-02",
       "description": "Ceremonial marriage of the Tulsi plant with Lord Vishnu, celebrated with devotion and prayers to Krishna."
     },
     {
       "event_name": "Maha Shivratri",
-      "date": "2024-03-08",
+      "date": "2025-02-26",
       "description": "Great night dedicated to Lord Shiva, observed with fasting and night-long vigils, including devotion to Krishna as part of the broader worship."
     },
     {
       "event_name": "Hanuman Jayanti",
-      "date": "2024-04-17",
+      "date": "2025-04-12",
       "description": "Celebration of the birth of Lord Hanuman, observed with prayers and recitations of the Hanuman Chalisa, with reverence to Krishna."
     },
     {
       "event_name": "Ram Navami",
-      "date": "2024-03-25",
+      "date": "2025-04-06",
       "description": "Celebration of the birth of Lord Rama, an incarnation of Vishnu, which includes devotional activities and reverence towards Krishna."
     },
     {
       "event_name": "Guru Purnima",
-      "date": "2024-07-21",
+      "date": "2025-07-10",
       "description": "Day dedicated to honoring and expressing gratitude to one's spiritual teachers and guides, including the teachings of Krishna."
     },
     {
       "event_name": "Pongal",
-      "date": "2024-01-15",
+      "date": "2025-01-15",
       "description": "Harvest festival celebrated primarily in South India, including devotional activities and offerings to Krishna."
     },
     {
       "event_name": "Sankashti Chaturthi",
-      "date": "2024-08-10",
+      "date": "2025-12-08",
       "description": "Fasting day observed on the fourth day of the waning moon, dedicated to Lord Ganesha, and also associated with Krishna's blessings."
     },
     {
       "event_name": "Dhanteras",
-      "date": "2024-11-29",
+      "date": "2025-10-18",
       "description": "Festival marking the beginning of Diwali, dedicated to the worship of Lord Dhanvantari, with prayers and offerings to Krishna."
     },
     {
       "event_name": "Bhai Dooj",
-      "date": "2024-11-03",
+      "date": "2025-10-23",
       "description": "Festival celebrating the bond between brothers and sisters, with devotional activities including prayers to Krishna."
     },
     {
       "event_name": "Rakshabandhan",
-      "date": "2024-08-19",
+      "date": "2025-08-09",
       "description": "Festival celebrating the bond between brothers and sisters, with sisters tying a protective thread on their brothers' wrists and offering prayers, including devotion to Krishna."
     }
   ]
